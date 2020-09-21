@@ -1,2 +1,0 @@
-# september-bootcamp
-for loop
